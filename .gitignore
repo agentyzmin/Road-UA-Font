@@ -1,0 +1,4 @@
+docs/node_modules
+docs/package-lock.json
+docs/bs-config.js
+docs/gulpfile.js
